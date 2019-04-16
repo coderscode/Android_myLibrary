@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin">30dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="thumbnail">40dp</dimen>
+    <dimen name="row_padding">10dp</dimen>
+    <dimen name="contact_name">15dp</dimen>
+    <dimen name="contact_number">12dp</dimen>
+    <dimen name="recycler_view_item_width">40dp</dimen>
+    <dimen name="textsizemainBox">8dp</dimen>
+    <dimen name="subtextsizemainBox">6dp</dimen>
+    <dimen name="selectequipmainsize">12sp</dimen>
+    <dimen name="subselectequipmainsize">8sp</dimen>
+    <dimen name="mainselectequipmainsize">20dp</dimen>
+    <dimen name="dimen9">9dp</dimen>
+    <dimen name="newsheadtextsize">18dp</dimen>
+    <dimen name="newsheadtextsizesmall">12dp</dimen>
+    <dimen name="newsheadtextsizebookmark">11dp</dimen>
+    <dimen name="equipdescriptionselectequipmainsize">20dp</dimen>
+    <dimen name="equipdescriptionownerselectequipmainsize">11dp</dimen>
+    <dimen name="equiprentownerselectequipmainsize">11dp</dimen>
+
+    <dimen name="closedialogtextSize">20dp</dimen>
+    <dimen name="closesubdialogtextSize">15dp</dimen>
+
+    <dimen name="recentbutton">10dp</dimen>
+
+    <dimen name="textsizesignup">12dp</dimen>
+    <dimen name="buttontextsize">20dp</dimen>
+    <dimen name="heightedittextsignup">52dp</dimen>
+
+    <dimen name="dateTitleTextSize">18sp</dimen>
+    <!--<dimen name="dateTitlePaddingBottom">5dp</dimen>-->
+    <!-- weekLayout -->
+    <dimen name="dayOfWeekTextSize">16sp</dimen>
+    <dimen name="textSize">23dp</dimen>
+    <!-- weekRowLayout -->
+    <!--<dimen name="week_bottom_padding">5dp</dimen>-->
+    <!-- Day of the month -->
+    <dimen name="underline_weight">6dp</dimen>
+    <dimen name="underline_height">2dp</dimen>
+    <dimen name="day_of_month_background_size">32dp</dimen>
+    <dimen name="dayOfMonthIndicatorSize">3dp</dimen>
+    <dimen name="dayOfMonthImageMarginTop">20dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="paddingleft_right">24dp</dimen>
+
+    <!--New dimens-->
+    <dimen name="calendarTitlePaddingTop">8dp</dimen>
+    <dimen name="calendarTitlePaddingBottom">8dp</dimen>
+    <dimen name="weekTitlePaddingTop">8dp</dimen>
+    <dimen name="weekTitlePaddingBottom">8dp</dimen>
+    <dimen name="minDayCellHeight">40dp</dimen>
+    <dimen name="dimen_12dp">14dp</dimen>
+    <dimen name="cardCornerRadius"> 5dp </dimen>
+    <dimen name="cardElevation"> 5dp </dimen>
+    <dimen name="cardPreventCornerOverlap">5dp</dimen>
+    <dimen name="cardUseCompatPadding">5dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="imagewidthdashitems">65dp</dimen>
+    <dimen name="imageheight">45dp</dimen>
+    <dimen name="dimen_13dp">13dp</dimen>
+    <dimen name="dimen_242dp">242dp</dimen>
+    <dimen name="dimen_120dp">120dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="_buttonsize">90dp</dimen>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:showAsAction="always"
+    android:id="@+id/main">
+    <item
+        android:id="@+id/one"
+        android:checkable="false"
+        app:showAsAction="never"
+
+
+        android:title="@string/chooselanguage"/>
+
+    <item
+        android:id="@+id/two"
+        android:checkable="false"
+        android:title="@string/english"/>
+
+    <item
+        android:id="@+id/three"
+        android:checkable="false"
+        android:title="@string/hindi"/>
+</menu>

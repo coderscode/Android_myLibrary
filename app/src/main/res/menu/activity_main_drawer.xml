@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav"
+            android:icon="@drawable/shoppingcart_black"
+            android:visible="false"
+            android:title="@string/mycart" />
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/notification"
+
+            android:title="@string/notifications" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/pay_icon"
+            android:title="@string/wallet" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/equip_icon"
+            android:title="@string/bookedequipment" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/history_icon"
+
+            android:title="@string/History1" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/newsicon"
+            android:title="@string/news" />
+
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/settings_icon"
+            android:title="@string/settings" />
+        <!--
+         <item
+             android:id="@+id/nav_manage"
+             android:icon="@drawable/ic_menu_manage"
+             android:title="Change Password" />
+
+ -->
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/support_icon"
+            android:title="@string/support" />
+
+       </group>
+
+
+</menu>

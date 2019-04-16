@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#30b907</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#43c00d</color>
+    <color name="viewcolorequip">#D9DCD5</color>
+    <color name="holo_gray_dark">#424242</color>
+
+
+    <color name="newscolor">#161616</color>
+    <color name="newsviewcolor">#707070</color>
+
+
+    <color name="day_disabled_background_color">#F1F5F8</color>
+    <color name="day_disabled_text_color">#DEDEDE</color>
+    <color name="selected_day_background">#03A7E9</color>
+    <color name="current_day_of_month">#03A7E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="titlecolor">#BFC2BA</color>
+    <color name="belowtext">#65636B</color>
+    <color name="red">#f00</color>
+    <color name="blue">#009de0</color>
+    <color name="black">#000000</color>
+    <color name="off_white">#f1f5f7</color>
+    <color name="ongoing">#292929</color>
+    <color name="blue_selector">#00aeea</color>
+    <color name="red_negative_progress">#ff3333</color>
+    <color name="textfromcolor">#43414A</color>
+    <color name="textcolortotime">#888888</color>
+
+    <color name="notificationcolorhead">#65636B </color>
+    <color name="notificationcolorsubhead">#82BC29</color>
+    <color name="notificationcolorred">#FF7890</color>
+    <color name="view">#A9A9A9</color>
+
+    <color name="bg_color">#e3ebee</color>
+    <color name="color_grey">#ff669900</color>
+    <color name="contractend">#FF7890</color>
+    <color name="viewcolor">#D9DCD5</color>
+    <color name="rent_detail">#C6C9C1</color>
+
+
+    <color name="closedialogcolor">#464646</color>
+    <color name="closecolor">#707070</color>
+
+    <color name="closeyescolor">#82BC29</color>
+    <color name="background">#E0E0E0</color>
+    <color name="grey">#757575</color>
+    <color name="profilesettingedit">#575757</color>
+    <color name="recentcolor">#65636B</color>
+    <color name="recentmain">#161616</color>
+    <color name="searchmain">#95989A</color>
+    <color name="statuscolor">#FF7890</color>
+    <color name="walletback">#E8E8E8</color>
+    <color name="textsubsupport">#65636B</color>
+    <color name="profilesub">#141414</color>
+    <color name="itemnews">#E9E9E9</color>
+
+    <color name="contraintmaincolor">#FFE8EC</color>
+
+
+    <color name="primary">#7AA4D5</color>
+    <color name="primary_dark">#165E8B</color>
+    <color name="accent">#7AA4D5</color>
+
+    <color name="persian_green_primary">#0DAC8F</color>
+    <color name="persian_green_dark">#0A927A</color>
+    <color name="persian_green_accent">#0A927A</color>
+    <color name="pink_primary">#EB1E63</color>
+    <color name="pink_dark">#C0175C</color>
+    <color name="pink_accent">#C0175C</color>
+    <color name="royal_blue_primary">#4C63E2</color>
+    <color name="royal_blue_dark">#4055BF</color>
+    <color name="royal_blue_accent">#4055BF</color>
+    <color name="purple_primary">#9C28B1</color>
+    <color name="purple_dark">#7A1FA2</color>
+    <color name="purple_accent">#7A1FA2</color>
+    <color name="orange_accent">#F3A62E</color>
+    <color name="indigo">#3E50AE</color>
+    <color name="pink">#FF427C</color>
+    <color name="colorgreenlight">#6374ff42</color>
+
+    <color name="cardBackgroundColor">#FF0000</color>
+    <color name="app_button_color">#2CA6CF</color>
+    <color name="light_white">#fcfcfc</color>
+    <color name="tocolorArea">#FF7890</color>
+    <color name="tocolorTo">#C6DDA3</color>
+    <color name="pendingcolor">#FF7890</color>
+    <color name="textreview">#686868</color>
+
+
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="errorColor">#D50000</color>
+    <color name="infoColor">#3F51B5</color>
+    <color name="successColor">#388E3C</color>
+    <color name="warningColor">#FFA900</color>
+    <color name="normalColor">#353A3E</color>
+</resources>
